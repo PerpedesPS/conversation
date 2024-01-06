@@ -1,0 +1,30 @@
+# Declare variables for num1, num2, num3, and string1
+# Convert num1 to an integer and store it in a new variable
+# Convert num2 to a float and store it in a new variable
+# Convert num3 to a string and store it in a new variable
+# Convert string1 to an integer and store it in a new variable
+# Print out the old and new values of each variable using print()
+
+# Declare variables for num1, num2, num3, and string1
+num1 = 99.23
+num2 = 23
+num3 = 150
+string1 = "100"
+
+# Convert num1 to an integer and store it in a new variable
+new_num1 = int(num1)
+
+# Convert num2 to a float and store it in a new variable
+new_num2 = float(num2)
+
+# Convert num3 to a string and store it in a new variable
+new_num3 = str(num3)
+
+# Convert string1 to an integer and store it in a new variable
+new_string1 = int(string1)
+
+# Print out the old and new values of each variable using print()
+print("num1:", num1, "new_num1:", new_num1)
+print("num2:", num2, "new_num2:", new_num2)
+print("num3:", num3, "new_num3:", new_num3)
+print("string1:", string1, "new_string1:", new_string1)
