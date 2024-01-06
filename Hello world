@@ -1,0 +1,14 @@
+# Prompt the user to enter their name using input()
+name = input("Enter your name: ")
+
+# Print out the name using print()
+print(name)
+
+# Prompt the user to enter their age using input()
+age = input("Enter your age: ")
+
+# Print out the age using print()
+print(age)
+
+# Print out the string "Hello World!" on a new line using print()
+print("Hello World!")
