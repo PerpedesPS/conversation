@@ -1,0 +1,16 @@
+# Prompt the user to enter their name using input()
+name = input("Enter your name: ")
+
+# Prompt the user to enter their age using input()
+age = input("Enter your age: ")
+
+# Prompt the user to enter their house number using input()
+house_number = input("Enter your house number: ")
+
+# Prompt the user to enter their street name using input()
+street_name = input("Enter your street name: ")
+
+# Print out a string containing all the details of the user using print()
+# Format the string so that it includes the user's name, age, house number, and street name
+output_string = "This is {}. He is {} years old and lives at house number {} on {} street.".format(name, age, house_number, street_name)
+print(output_string)
